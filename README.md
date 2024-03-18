@@ -32,5 +32,6 @@ Feel free to check out my repositories for more projects and contributions!
 
 I'm always eager to collaborate on new projects or just chat about tech! Feel free to reach out.
 
-![IMG_7043](https://github.com/OnlyOneLz/OnlyOneLz/assets/143958311/bce46e4f-b774-4b8c-99ea-84285f8edd0e)
+![IMG_7043](https://github.com/OnlyOneLz/OnlyOneLz/assets/143958311/18c0eecb-2bae-4468-aac6-3b28b16ed637)
+
 
