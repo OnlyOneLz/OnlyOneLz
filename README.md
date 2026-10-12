@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm a 21-year-old aspiring web developer passionate about building innovative web applications. Apart from coding, I also manage my own cleaning product brand, juggling between entrepreneurial endeavors and coding projects.
+Hey there! I'm a 23-year-old aspiring web developer passionate about building innovative web applications. Apart from coding, I also manage my own cleaning product brand, juggling between entrepreneurial endeavors and coding projects.
 
 I've participated in two software engineering bootcamps at General Assembly and Founders and Coders, where I honed my skills and collaborated on various projects.
 
