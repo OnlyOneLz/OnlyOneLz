@@ -8,7 +8,7 @@ I've participated in two software engineering bootcamps at General Assembly and 
 
 ## Skills
 
-- **Languages**: JavaScript, TypeScript, Python
+- **Languages**: JavaScript, TypeScript, Python, Java
 - **Libraries/Frameworks**: Vue.js, Next.js, Django, React
 
 ## Projects
@@ -32,6 +32,5 @@ Feel free to check out my repositories for more projects and contributions!
 
 I'm always eager to collaborate on new projects or just chat about tech! Feel free to reach out.
 
-![IMG_7043](https://github.com/OnlyOneLz/OnlyOneLz/assets/143958311/18c0eecb-2bae-4468-aac6-3b28b16ed637)
 
 
